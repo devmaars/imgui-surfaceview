@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImGui GLSurfaceView</string>
+    <string name="opengles3_not_supported">This device does not support OpenGL ES 3.0</string>
+    <string name="ok">OK</string>
+    <string name="exit">Exit</string>
+</resources>
